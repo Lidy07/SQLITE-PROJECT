@@ -1,0 +1,9 @@
+1,What did you like about this project?
+ What did I like from this project is, it cover all about SQL learn concept, such as SQL Manipulation, Queries, Aggregate Function and Multiple function.Thus, It is good opportunities to try project and compare our work with other developer work, and learn different way and techniques to solve the question.
+
+2, What did you struggle with in this project?
+  First, I had some confusion without understanding Orientation to details, but Once Iread over again and saw other  similar examples, and solutions when I stuck,finally I was able to do it.It was a little bit tough ,but a nice way of learning about SQL.
+
+3, What would make your experience with this assessment better?
+
+I believe that my experience while I did this assessment was, orientation to detail and persistence is a key to success . Moreover, read the documentation, read the question and understand better than practice! prictice, practice!
